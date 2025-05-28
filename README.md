@@ -5,7 +5,15 @@ This project performs exploratory data analysis (EDA) on a dataset of YouTube vi
 ##  Dataset
 
 - **File Used**: `UScomments.csv`
-- The dataset contains comments on various YouTube videos from the US, including metadata such as likes, replies, and sentiment indicators. It is there in repository. 
+- The dataset contains comments on various YouTube videos from the US, including metadata such as likes, replies, and sentiment indicators.
+- ## 🔗 Dataset Access
+
+You can access the `UScomments.csv` dataset used in this project from the following Google Drive link:
+
+ [Download from Google Drive](https://drive.google.com/drive/u/0/folders/1makDwgfKzmqOSikEnOLkmMskT3609dAo)
+
+> Make sure to download the CSV file and place it in the same directory as the notebook before running it.
+
 
 ##  Tools & Libraries
 
@@ -44,7 +52,7 @@ This project performs exploratory data analysis (EDA) on a dataset of YouTube vi
 3. Place `UScomments.csv` in the same directory as the notebook.
 4. Open and run `Youtube Analysis.ipynb` using Jupyter Notebook or any compatible environment.
 
-## 📈 Sample Output
+##  Sample Output
 
 - Bar plots, histograms, and heatmaps illustrating comment activity and engagement.
 - Text insights from comments with high likes or replies.
