@@ -1,15 +1,13 @@
-# Youtube_data_Analysis
-
-# 📊 YouTube Comments Analysis
+# Youtube Comments Analysis
 
 This project performs exploratory data analysis (EDA) on a dataset of YouTube video comments from the US. It focuses on cleaning, visualizing, and deriving insights from the comment data.
 
-## 📁 Dataset
+##  Dataset
 
 - **File Used**: `UScomments.csv`
-- The dataset contains comments on various YouTube videos from the US, including metadata such as likes, replies, and sentiment indicators.
+- The dataset contains comments on various YouTube videos from the US, including metadata such as likes, replies, and sentiment indicators. It is there in repository. 
 
-## 🔧 Tools & Libraries
+##  Tools & Libraries
 
 - **Python**
 - **Pandas**
@@ -17,26 +15,26 @@ This project performs exploratory data analysis (EDA) on a dataset of YouTube vi
 - **Matplotlib**
 - **Seaborn**
 
-## 🚀 Features
+##  Features
 
 - Handles missing values and cleans the dataset.
 - Visualizes distributions and patterns in user comments.
 - Identifies popular comments using likes and reply metrics.
 - Highlights trends and potential anomalies in the comment data.
 
-## 🧹 Data Cleaning
+##  Data Cleaning
 
 - Dropped rows with missing values in `comment_text`.
 - Skipped malformed lines during CSV import using `on_bad_lines='skip'`.
 
-## 📊 Visualizations
+##  Visualizations
 
 - Frequency of comments.
 - Most liked comments.
 - Reply count distributions.
 - Potential sentiment indicators.
 
-## 📌 How to Run
+##  How to Run
 
 1. Clone the repository or download the notebook.
 2. Ensure you have the required libraries installed:
